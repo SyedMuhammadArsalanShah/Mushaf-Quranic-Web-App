@@ -16,10 +16,15 @@ The app integrates the **AlQuran Cloud API** for real-time Quranic data and reci
 ## 🧠 Key Features
 
 ✅ **Amiri Quran Font** – Beautiful, authentic Quranic Arabic script
+
 ✅ **Streamlit-based UI** – Simple, responsive, and interactive interface
+
 ✅ **Multiple Reciters** – Choose from well-known Qaris like Sudais, Shuraym, Maher Al-Muaiqly, and Al-Afasy
+
 ✅ **Per-Ayah Audio Playback** – Listen to the recitation of each verse
+
 ✅ **Surah Navigation** – Browse and select Surahs easily from the sidebar
+
 ✅ **RTL Arabic Rendering** – Proper right-to-left alignment for Quranic text
 
 ---
@@ -108,8 +113,10 @@ Open your browser and visit:
 
 **Developer:** Syed Muhammad Arsalan Shah
 📧 *http://syedmuhammadarsalanshah.vercel.app/*
+
 💻 *https://github.com/SyedMuhammadArsalanShah*
 
 ---
 
 Would you like me to include your **email, GitHub, or portfolio link** in the contact section so I can finalize and format the footer professionally?
+
